@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+! Title: Jeff's Custom Filters
+! Version: 1
+! Last modified: 25 June 2023
+! Description: Just a custom filter list for my own use. Feel free to use it if you want. But you may want to make a copy as it's subject to change without notice, and random breaking changes are certain to occur.
+!-------------------------------------------------------------------------------
+lazyadmin.nl##[id*="AdThrive"]
+www.spectator.co.uk##SECTION[id="subscribe-ribbon"][class="subscribe-ribbon js-subscribe-ribbon"]
+www.spectator.co.uk##HEADER[id="js-header-secondary"][class="header-secondary header-secondary--sticky"]
+www.bing.com##LI[class="b_ans"]
+www.bing.com##UL[id="trending_now_tile"]
+www.bing.com##SECTION[id="carousel"][class="carousel show"]
+www.bing.com##DIV[class="module show"]
+www.wsj.com##DIV[data-type="media"]
+www.wsj.com##HEADER
