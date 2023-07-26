@@ -7,9 +7,5 @@
 lazyadmin.nl##[id*="AdThrive"]
 www.spectator.co.uk##SECTION[id="subscribe-ribbon"][class="subscribe-ribbon js-subscribe-ribbon"]
 www.spectator.co.uk##HEADER[id="js-header-secondary"][class="header-secondary header-secondary--sticky"]
-! www.bing.com##LI[class="b_ans"]
-! www.bing.com##UL[id="trending_now_tile"]
-! www.bing.com##SECTION[id="carousel"][class="carousel show"]
-! www.bing.com##DIV[class="module show"]
 www.wsj.com##DIV[data-type="media"]
 www.wsj.com##HEADER
